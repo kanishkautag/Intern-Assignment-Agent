@@ -106,6 +106,14 @@ This is repeated for each mail.
 These are documented intentionally for transparency.
 
 ---
+## Screenshots
+
+<img width="1889" height="896" alt="image" src="https://github.com/user-attachments/assets/9d38814b-946d-4719-aba4-6c557383ebc2" />
+
+
+
+<img width="891" height="523" alt="image" src="https://github.com/user-attachments/assets/a1fc2a53-8fba-47c2-aad2-af59fe3cd9d5" />
+
 
 ## Safety
 
