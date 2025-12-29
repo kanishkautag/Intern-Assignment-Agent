@@ -122,8 +122,6 @@ Recipient Emails
 
 All values are unique.
 
----
-
 ## Author
 
-Built by Kanishka for internship assignment and experimentation.
+Built by Kanishka.
